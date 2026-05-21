@@ -4,10 +4,6 @@
   Cognitive Science &amp; Computer Science @ University of Pennsylvania
 </p>
 
-<p align="center">
-  Curious about the mind, the machine, and everything in between
-</p>
-
 ---
 
 ### About me
