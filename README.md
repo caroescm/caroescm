@@ -1,16 +1,16 @@
-<h1 align="center">hi, i'm caro 👋</h1>
+<h1 align="center">Hi, I'm Caro 👋</h1>
 
 <p align="center">
-  cognitive science &amp; computer science @ penn
+  Cognitive Science &amp; Computer Science @ University of Pennsylvania
 </p>
 
 <p align="center">
-  curious about the mind, the machine, and everything in between
+  Curious about the mind, the machine, and everything in between
 </p>
 
 ---
 
-### about me
+### About me
 
 - 🧠 studying how humans think — and how to build systems that do too
 - 💻 interested in human-computer interaction, AI, and cognitive modeling
@@ -33,13 +33,6 @@
 ### github stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&hide=prs" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:caroescm@sas.upenn.edu">email</a> ·
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">linkedin</a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caroescm&show_icons=true&theme=default&hide_border=true&count_private=true&hide=prs" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroescm&layout=compact&theme=default&hide_border=true" />
 </p>
