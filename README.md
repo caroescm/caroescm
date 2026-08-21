@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Caro 👋✨</h1>
+<h1 align="center">Hi, I'm Caro!</h1>
 
 <p align="center">
   Cognitive Science &amp; Computer Science @ University of Pennsylvania
@@ -12,10 +12,10 @@
 
 ### 🌸 about me
 
-- 📊 curious about how data and experimentation shape product and growth decisions across tech and media
-- 🚀 hoping to use data to inform product, marketing, and growth strategy
-- 🤖 tinkering with AI/ML and LLM-powered tools
-- 🌱 always working on learning something new
+- curious about how data and experimentation shape product and growth decisions across tech and media
+- hoping to use data to inform product, marketing, and growth strategy
+- tinkering with AI/ML and LLM-powered tools
+- always working on learning something new
 
 ---
 
